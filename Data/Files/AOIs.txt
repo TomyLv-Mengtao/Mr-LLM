@@ -1,0 +1,15 @@
+FCU: Flight Control Unit, the interface that allows pilots to enter and control the autopilot system, setting and adjusting things like altitude, heading, and speed.
+
+PFD: Primary Flight Display, displays critical flight information such as speed, altitude, and attitude, along with navigational information.
+
+ND: Navigation Display, shows the aircraft's route in relation to navigation aids, the flight plan, and other important details such as weather radar.
+
+ECAM and MFD: Electronic Centralized Aircraft Monitor (ECAM) and Multi-Function Display (MFD), are used to monitor aircraft systems and provide alerts to pilots about the aircraft's health and status. They serve multiple purposes, such as displaying maps, flight plans, weather, and aircraft systems information.
+
+LDG: Landing Gear Panel, consists of the controls and indicators for the aircraft's landing gear system, displaying the status of the gear and any related warnings.
+
+MCDU: Multifunction Control Display Unit, the interface for the Flight Management System (FMS), where pilots can input flight plans, perform calculations, and manage the aircraft's performance.
+
+External: refers to the external view outside the cockpit that provides additional visual references to the pilots through the window.
+
+Others: The other parts inside the cockpit that are not defined as specific AOIs.
