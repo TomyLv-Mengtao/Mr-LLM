@@ -1,0 +1,138 @@
+[
+    {
+        "ND": 3887,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.03
+    },
+    {
+        "LDG": 1102,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.94
+    },
+    {
+        "FCU": 962,
+        "Pupil": 0.93
+    },
+    {
+        "saccade": 60,
+        "Pupil": 0.88
+    },
+    {
+        "External": 711,
+        "Pupil": 0.84
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.78
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.77
+    },
+    {
+        "FCU": 972,
+        "Pupil": 0.77
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.82
+    },
+    {
+        "FCU": 230,
+        "Pupil": 0.82
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.83
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.81
+    },
+    {
+        "ND": 711,
+        "Pupil": 0.89
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.92
+    },
+    {
+        "ND": 591,
+        "Pupil": 0.93
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.94
+    },
+    {
+        "LDG": 260,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.97
+    },
+    {
+        "LDG": 511,
+        "Pupil": 0.97
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.97
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.98
+    },
+    {
+        "LDG": 150,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.98
+    },
+    {
+        "LDG": 190,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.97
+    },
+    {
+        "LDG": 701,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.98
+    },
+    {
+        "ND": 621,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.99
+    },
+    {
+        "ND": 811,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 80,
+        "Pupil": 0.97
+    },
+    {
+        "LDG": 130,
+        "Pupil": 0.97
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "Others": 301,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.0
+    },
+    {
+        "Others": 581,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.03
+    },
+    {
+        "Others": 431,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.01
+    },
+    {
+        "Others": 1964,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.01
+    },
+    {
+        "Others": 1513,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 60,
+        "Pupil": 1.05
+    },
+    {
+        "saccade": 90,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.01
+    },
+    {
+        "ND": 821,
+        "Pupil": 0.97
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.0
+    },
+    {
+        "PFD": 571,
+        "Pupil": 0.97
+    },
+    {
+        "saccade": 50,
+        "Pupil": 0.97
+    },
+    {
+        "ND": 220,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.98
+    },
+    {
+        "PFD": 641,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.98
+    },
+    {
+        "Others": 351,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.98
+    },
+    {
+        "PFD": 80,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.92
+    },
+    {
+        "PFD": 200,
+        "Pupil": 0.96
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.97
+    },
+    {
+        "ND": 401,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.96
+    },
+    {
+        "ND": 250,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 60,
+        "Pupil": 1.0
+    },
+    {
+        "PFD": 361,
+        "Pupil": 0.94
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.94
+    },
+    {
+        "PFD": 601,
+        "Pupil": 0.94
+    }
+]

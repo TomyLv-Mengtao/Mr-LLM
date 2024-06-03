@@ -1,0 +1,34 @@
+[
+    {
+        "saccade": 30,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.97
+    },
+    {
+        "FCU": 371,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.96
+    },
+    {
+        "ND": 130,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.95
+    },
+    {
+        "ND": 1292,
+        "Pupil": 1.02
+    }
+]

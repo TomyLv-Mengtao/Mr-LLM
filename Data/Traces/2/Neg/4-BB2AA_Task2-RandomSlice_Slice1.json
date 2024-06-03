@@ -1,0 +1,38 @@
+[
+    {
+        "ND": 321,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 50,
+        "Pupil": 1.01
+    },
+    {
+        "PFD": 230,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.97
+    },
+    {
+        "ND": 281,
+        "Pupil": 0.96
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.96
+    },
+    {
+        "LDG": 210,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 50,
+        "Pupil": 1.01
+    },
+    {
+        "MCDU": 1713,
+        "Pupil": 1.03
+    }
+]

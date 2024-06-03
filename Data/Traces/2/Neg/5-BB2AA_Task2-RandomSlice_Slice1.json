@@ -1,0 +1,46 @@
+[
+    {
+        "MCDU": 431,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 80,
+        "Pupil": 0.92
+    },
+    {
+        "ND": 281,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 70,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 10,
+        "Pupil": 1.03
+    },
+    {
+        "FCU": 561,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.93
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.92
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.93
+    },
+    {
+        "ND": 1292,
+        "Pupil": 0.98
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "ND": 621,
+        "Pupil": 1.09
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.06
+    },
+    {
+        "PFD": 140,
+        "Pupil": 1.07
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.06
+    },
+    {
+        "PFD": 240,
+        "Pupil": 1.05
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.05
+    },
+    {
+        "PFD": 501,
+        "Pupil": 1.05
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.02
+    },
+    {
+        "ND": 461,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.01
+    },
+    {
+        "PFD": 421,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.03
+    },
+    {
+        "PFD": 421,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 60,
+        "Pupil": 0.96
+    },
+    {
+        "ND": 200,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.01
+    },
+    {
+        "ND": 180,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.92
+    },
+    {
+        "ND": 1503,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.98
+    },
+    {
+        "ND": 641,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.97
+    },
+    {
+        "ND": 601,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 60,
+        "Pupil": 1.0
+    },
+    {
+        "FCU": 301,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.92
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.93
+    },
+    {
+        "ND": 200,
+        "Pupil": 0.93
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.93
+    },
+    {
+        "ND": 421,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.94
+    },
+    {
+        "Others": 341,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.98
+    },
+    {
+        "ND": 401,
+        "Pupil": 0.99
+    }
+]

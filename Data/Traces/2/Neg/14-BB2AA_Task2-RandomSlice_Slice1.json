@@ -1,0 +1,34 @@
+[
+    {
+        "Others": 842,
+        "Pupil": 1.04
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 60,
+        "Pupil": 0.95
+    },
+    {
+        "ND": 150,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.04
+    },
+    {
+        "PFD": 481,
+        "Pupil": 1.05
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.04
+    },
+    {
+        "ND": 2424,
+        "Pupil": 1.03
+    }
+]

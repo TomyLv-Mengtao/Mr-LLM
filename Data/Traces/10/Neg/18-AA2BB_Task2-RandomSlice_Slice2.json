@@ -1,0 +1,218 @@
+[
+    {
+        "ND": 331,
+        "Pupil": 0.93
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.87
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.82
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.89
+    },
+    {
+        "ND": 421,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.98
+    },
+    {
+        "ND": 481,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.85
+    },
+    {
+        "saccade": 100,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.89
+    },
+    {
+        "Others": 150,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.93
+    },
+    {
+        "Others": 160,
+        "Pupil": 0.94
+    },
+    {
+        "saccade": 50,
+        "Pupil": 0.94
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.86
+    },
+    {
+        "Others": 291,
+        "Pupil": 0.94
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.88
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 80,
+        "Pupil": 1.01
+    },
+    {
+        "Others": 100,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 90,
+        "Pupil": 0.99
+    },
+    {
+        "Others": 60,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.01
+    },
+    {
+        "Others": 220,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 50,
+        "Pupil": 0.99
+    },
+    {
+        "Others": 120,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 10,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.94
+    },
+    {
+        "ECAM and MFD": 100,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 10,
+        "Pupil": 1.01
+    },
+    {
+        "ECAM and MFD": 150,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.95
+    },
+    {
+        "Others": 260,
+        "Pupil": 1.04
+    },
+    {
+        "saccade": 50,
+        "Pupil": 1.05
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.04
+    },
+    {
+        "ND": 451,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 60,
+        "Pupil": 1.02
+    },
+    {
+        "LDG": 631,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.96
+    },
+    {
+        "saccade": 10,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.01
+    },
+    {
+        "Others": 260,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.03
+    },
+    {
+        "Others": 180,
+        "Pupil": 1.06
+    },
+    {
+        "saccade": 60,
+        "Pupil": 1.02
+    },
+    {
+        "PFD": 250,
+        "Pupil": 1.04
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.04
+    }
+]

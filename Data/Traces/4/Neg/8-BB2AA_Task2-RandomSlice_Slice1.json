@@ -1,0 +1,78 @@
+[
+    {
+        "Others": 1132,
+        "Pupil": 0.89
+    },
+    {
+        "saccade": 60,
+        "Pupil": 0.89
+    },
+    {
+        "Others": 60,
+        "Pupil": 0.88
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.87
+    },
+    {
+        "ND": 80,
+        "Pupil": 0.88
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.89
+    },
+    {
+        "ND": 541,
+        "Pupil": 0.89
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.91
+    },
+    {
+        "PFD": 100,
+        "Pupil": 0.92
+    },
+    {
+        "saccade": 60,
+        "Pupil": 0.93
+    },
+    {
+        "Others": 1002,
+        "Pupil": 0.94
+    },
+    {
+        "saccade": 80,
+        "Pupil": 0.93
+    },
+    {
+        "ND": 291,
+        "Pupil": 0.93
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.92
+    },
+    {
+        "PFD": 281,
+        "Pupil": 0.91
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.91
+    },
+    {
+        "PFD": 140,
+        "Pupil": 0.91
+    },
+    {
+        "saccade": 60,
+        "Pupil": 0.92
+    },
+    {
+        "ND": 2234,
+        "Pupil": 0.93
+    }
+]

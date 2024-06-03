@@ -1,0 +1,138 @@
+[
+    {
+        "External": 481,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.92
+    },
+    {
+        "External": 281,
+        "Pupil": 0.92
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.9
+    },
+    {
+        "External": 240,
+        "Pupil": 0.89
+    },
+    {
+        "External": 70,
+        "Pupil": 0.9
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.92
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.91
+    },
+    {
+        "External": 90,
+        "Pupil": 0.93
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.92
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.91
+    },
+    {
+        "External": 230,
+        "Pupil": 0.94
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.95
+    },
+    {
+        "External": 90,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.94
+    },
+    {
+        "saccade": 50,
+        "Pupil": 0.92
+    },
+    {
+        "External": 70,
+        "Pupil": 0.9
+    },
+    {
+        "saccade": 160,
+        "Pupil": 0.88
+    },
+    {
+        "Others": 361,
+        "Pupil": 0.9
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.8
+    },
+    {
+        "Others": 140,
+        "Pupil": 0.79
+    },
+    {
+        "saccade": 100,
+        "Pupil": 0.76
+    },
+    {
+        "ECAM and MFD": 1102,
+        "Pupil": 0.82
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.89
+    },
+    {
+        "ECAM and MFD": 270,
+        "Pupil": 0.88
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.89
+    },
+    {
+        "ECAM and MFD": 862,
+        "Pupil": 0.9
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.93
+    },
+    {
+        "saccade": 60,
+        "Pupil": 0.83
+    },
+    {
+        "ND": 932,
+        "Pupil": 0.91
+    },
+    {
+        "saccade": 80,
+        "Pupil": 0.89
+    },
+    {
+        "FCU": 331,
+        "Pupil": 0.89
+    },
+    {
+        "saccade": 80,
+        "Pupil": 0.9
+    },
+    {
+        "ND": 2655,
+        "Pupil": 0.95
+    }
+]

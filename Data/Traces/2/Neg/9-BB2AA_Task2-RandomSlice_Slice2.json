@@ -1,0 +1,46 @@
+[
+    {
+        "Others": 561,
+        "Pupil": 1.08
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.11
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.1
+    },
+    {
+        "Others": 80,
+        "Pupil": 1.11
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.06
+    },
+    {
+        "FCU": 230,
+        "Pupil": 1.07
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.05
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.09
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 50,
+        "Pupil": 1.0
+    }
+]

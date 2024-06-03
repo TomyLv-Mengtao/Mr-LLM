@@ -1,0 +1,154 @@
+[
+    {
+        "saccade": 10,
+        "Pupil": 1.02
+    },
+    {
+        "FCU": 150,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.03
+    },
+    {
+        "FCU": 401,
+        "Pupil": 1.04
+    },
+    {
+        "saccade": 80,
+        "Pupil": 1.04
+    },
+    {
+        "ND": 701,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 10,
+        "Pupil": 1.0
+    },
+    {
+        "ND": 451,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.05
+    },
+    {
+        "ND": 110,
+        "Pupil": 1.05
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.04
+    },
+    {
+        "ND": 90,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.04
+    },
+    {
+        "ND": 801,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.0
+    },
+    {
+        "External": 70,
+        "Pupil": 1.01
+    },
+    {
+        "Others": 60,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.97
+    },
+    {
+        "ND": 160,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.0
+    },
+    {
+        "ND": 1823,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.03
+    },
+    {
+        "ND": 60,
+        "Pupil": 1.06
+    },
+    {
+        "saccade": 10,
+        "Pupil": 1.07
+    },
+    {
+        "ND": 811,
+        "Pupil": 1.05
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.07
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.0
+    },
+    {
+        "ND": 691,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 110,
+        "Pupil": 1.09
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.09
+    },
+    {
+        "saccade": 10,
+        "Pupil": 1.1
+    },
+    {
+        "saccade": 120,
+        "Pupil": 1.07
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.04
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.02
+    },
+    {
+        "ND": 411,
+        "Pupil": 1.0
+    }
+]

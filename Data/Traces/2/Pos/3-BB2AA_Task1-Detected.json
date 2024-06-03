@@ -1,0 +1,38 @@
+[
+    {
+        "saccade": 30,
+        "Pupil": 0.93
+    },
+    {
+        "MCDU": 130,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.99
+    },
+    {
+        "ECAM and MFD": 190,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.98
+    },
+    {
+        "ECAM and MFD": 220,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.99
+    },
+    {
+        "ECAM and MFD": 2004,
+        "Pupil": 1.03
+    }
+]

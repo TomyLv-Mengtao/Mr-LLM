@@ -1,0 +1,58 @@
+[
+    {
+        "ND": 811,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 80,
+        "Pupil": 1.02
+    },
+    {
+        "Others": 531,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 60,
+        "Pupil": 1.03
+    },
+    {
+        "ECAM and MFD": 361,
+        "Pupil": 1.06
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.05
+    },
+    {
+        "ECAM and MFD": 511,
+        "Pupil": 1.06
+    },
+    {
+        "saccade": 60,
+        "Pupil": 1.05
+    },
+    {
+        "LDG": 321,
+        "Pupil": 1.04
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.03
+    },
+    {
+        "ECAM and MFD": 471,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.0
+    },
+    {
+        "LDG": 641,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.01
+    }
+]

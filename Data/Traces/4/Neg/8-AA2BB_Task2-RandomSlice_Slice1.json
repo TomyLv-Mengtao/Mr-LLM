@@ -1,0 +1,74 @@
+[
+    {
+        "LDG": 260,
+        "Pupil": 0.84
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.83
+    },
+    {
+        "Others": 301,
+        "Pupil": 0.84
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.84
+    },
+    {
+        "Others": 90,
+        "Pupil": 0.84
+    },
+    {
+        "Others": 801,
+        "Pupil": 0.81
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.82
+    },
+    {
+        "Others": 120,
+        "Pupil": 0.82
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.81
+    },
+    {
+        "Others": 411,
+        "Pupil": 0.82
+    },
+    {
+        "saccade": 50,
+        "Pupil": 0.84
+    },
+    {
+        "External": 791,
+        "Pupil": 0.81
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.84
+    },
+    {
+        "LDG": 230,
+        "Pupil": 0.83
+    },
+    {
+        "saccade": 90,
+        "Pupil": 0.82
+    },
+    {
+        "ND": 160,
+        "Pupil": 0.83
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.83
+    },
+    {
+        "ND": 451,
+        "Pupil": 0.85
+    }
+]

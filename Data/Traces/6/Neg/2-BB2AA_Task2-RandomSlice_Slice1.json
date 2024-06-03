@@ -1,0 +1,62 @@
+[
+    {
+        "Others": 140,
+        "Pupil": 0.98
+    },
+    {
+        "Others": 230,
+        "Pupil": 1.02
+    },
+    {
+        "External": 240,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 40,
+        "Pupil": 1.04
+    },
+    {
+        "LDG": 210,
+        "Pupil": 1.02
+    },
+    {
+        "ECAM and MFD": 671,
+        "Pupil": 0.96
+    },
+    {
+        "External": 120,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.93
+    },
+    {
+        "Others": 210,
+        "Pupil": 0.97
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.98
+    },
+    {
+        "Others": 1653,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.9
+    },
+    {
+        "Others": 281,
+        "Pupil": 0.91
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.92
+    },
+    {
+        "Others": 210,
+        "Pupil": 0.93
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "ND": 1182,
+        "Pupil": 0.94
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.91
+    },
+    {
+        "ND": 751,
+        "Pupil": 0.91
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.93
+    },
+    {
+        "ND": 250,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.97
+    },
+    {
+        "ND": 190,
+        "Pupil": 0.98
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.97
+    },
+    {
+        "ND": 160,
+        "Pupil": 0.97
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.97
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.98
+    },
+    {
+        "ND": 291,
+        "Pupil": 0.97
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.94
+    },
+    {
+        "ND": 351,
+        "Pupil": 0.92
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.9
+    },
+    {
+        "ND": 661,
+        "Pupil": 0.9
+    },
+    {
+        "saccade": 50,
+        "Pupil": 0.87
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.8
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.77
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.83
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.9
+    },
+    {
+        "Others": 321,
+        "Pupil": 0.9
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.9
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.9
+    },
+    {
+        "FCU": 70,
+        "Pupil": 0.9
+    },
+    {
+        "saccade": 80,
+        "Pupil": 0.93
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.93
+    },
+    {
+        "LDG": 250,
+        "Pupil": 0.93
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.93
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.93
+    },
+    {
+        "ND": 341,
+        "Pupil": 0.94
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.95
+    },
+    {
+        "LDG": 261,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.95
+    },
+    {
+        "LDG": 240,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 40,
+        "Pupil": 0.95
+    },
+    {
+        "LDG": 1563,
+        "Pupil": 0.92
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.93
+    },
+    {
+        "ND": 761,
+        "Pupil": 0.86
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.8
+    },
+    {
+        "LDG": 90,
+        "Pupil": 0.8
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.81
+    },
+    {
+        "LDG": 1012,
+        "Pupil": 0.84
+    }
+]

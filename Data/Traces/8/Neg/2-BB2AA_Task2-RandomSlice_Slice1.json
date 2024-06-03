@@ -1,0 +1,150 @@
+[
+    {
+        "Others": 852,
+        "Pupil": 1.05
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.03
+    },
+    {
+        "Others": 250,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.0
+    },
+    {
+        "Others": 491,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.02
+    },
+    {
+        "Others": 281,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 10,
+        "Pupil": 1.01
+    },
+    {
+        "Others": 721,
+        "Pupil": 1.04
+    },
+    {
+        "Others": 411,
+        "Pupil": 1.05
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.05
+    },
+    {
+        "Others": 932,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 30,
+        "Pupil": 0.91
+    },
+    {
+        "ND": 230,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.01
+    },
+    {
+        "ND": 240,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 100,
+        "Pupil": 1.01
+    },
+    {
+        "ECAM and MFD": 90,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 10,
+        "Pupil": 1.03
+    },
+    {
+        "Others": 110,
+        "Pupil": 1.04
+    },
+    {
+        "FCU": 110,
+        "Pupil": 1.05
+    },
+    {
+        "ECAM and MFD": 70,
+        "Pupil": 1.04
+    },
+    {
+        "ECAM and MFD": 70,
+        "Pupil": 1.06
+    },
+    {
+        "ECAM and MFD": 110,
+        "Pupil": 1.06
+    },
+    {
+        "ECAM and MFD": 130,
+        "Pupil": 1.02
+    },
+    {
+        "saccade": 70,
+        "Pupil": 0.96
+    },
+    {
+        "Others": 321,
+        "Pupil": 1.04
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.05
+    },
+    {
+        "Others": 180,
+        "Pupil": 1.03
+    },
+    {
+        "saccade": 90,
+        "Pupil": 1.06
+    },
+    {
+        "Others": 130,
+        "Pupil": 1.06
+    },
+    {
+        "Others": 250,
+        "Pupil": 1.04
+    },
+    {
+        "Others": 230,
+        "Pupil": 1.03
+    },
+    {
+        "Others": 80,
+        "Pupil": 1.0
+    },
+    {
+        "Others": 70,
+        "Pupil": 1.01
+    },
+    {
+        "Others": 90,
+        "Pupil": 1.03
+    },
+    {
+        "Others": 291,
+        "Pupil": 1.04
+    }
+]

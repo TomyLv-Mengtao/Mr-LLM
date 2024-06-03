@@ -1,0 +1,22 @@
+[
+    {
+        "MCDU": 4508,
+        "Pupil": 1.04
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.05
+    },
+    {
+        "MCDU": 571,
+        "Pupil": 1.06
+    },
+    {
+        "saccade": 10,
+        "Pupil": 1.07
+    },
+    {
+        "Others": 641,
+        "Pupil": 1.06
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "ECAM and MFD": 852,
+        "Pupil": 1.04
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.04
+    },
+    {
+        "Others": 431,
+        "Pupil": 1.04
+    },
+    {
+        "saccade": 60,
+        "Pupil": 1.07
+    },
+    {
+        "PFD": 210,
+        "Pupil": 1.06
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.08
+    },
+    {
+        "Others": 331,
+        "Pupil": 1.06
+    },
+    {
+        "saccade": 30,
+        "Pupil": 1.04
+    },
+    {
+        "Others": 180,
+        "Pupil": 1.03
+    }
+]

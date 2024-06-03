@@ -1,0 +1,22 @@
+[
+    {
+        "PFD": 761,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 20,
+        "Pupil": 1.0
+    },
+    {
+        "PFD": 1142,
+        "Pupil": 1.01
+    },
+    {
+        "saccade": 60,
+        "Pupil": 0.89
+    },
+    {
+        "saccade": 100,
+        "Pupil": 0.9
+    }
+]

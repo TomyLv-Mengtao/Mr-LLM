@@ -1,0 +1,54 @@
+[
+    {
+        "saccade": 10,
+        "Pupil": 1.01
+    },
+    {
+        "External": 210,
+        "Pupil": 1.0
+    },
+    {
+        "saccade": 90,
+        "Pupil": 0.95
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.94
+    },
+    {
+        "Others": 120,
+        "Pupil": 0.94
+    },
+    {
+        "saccade": 10,
+        "Pupil": 0.95
+    },
+    {
+        "PFD": 331,
+        "Pupil": 0.96
+    },
+    {
+        "saccade": 20,
+        "Pupil": 0.98
+    },
+    {
+        "PFD": 301,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 50,
+        "Pupil": 0.91
+    },
+    {
+        "Others": 210,
+        "Pupil": 0.99
+    },
+    {
+        "saccade": 10,
+        "Pupil": 1.0
+    },
+    {
+        "Others": 481,
+        "Pupil": 0.98
+    }
+]
