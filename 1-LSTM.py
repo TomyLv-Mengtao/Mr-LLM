@@ -14,8 +14,8 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.callbacks import EarlyStopping
 
 # Paths to the positive and negative JSON files
-positive_path = '/workspaces/Mr-LLM/Data/Traces/2/Pos'
-negative_path = '/workspaces/Mr-LLM/Data/Traces/2/Neg'
+positive_path = '/workspaces/Mr-LLM/Data/Traces/10/Pos'
+negative_path = '/workspaces/Mr-LLM/Data/Traces/10/Neg'
 
 
 # Define a function to convert AOI to numerical values
@@ -102,6 +102,6 @@ actuals = ["Pos" if label == 1 else "Neg" for label in actuals]
 
 # Save the results to a CSV file
 output_df = pd.DataFrame({'Actual': actuals, 'Predicted': predictions})
-output_df.to_csv('/workspaces/Mr-LLM/Data/Traces/2/LSTM.csv', index=False)
+output_df.to_csv('/workspaces/Mr-LLM/Data/Traces/10/LSTM-10.csv', index=False)
 
 print("Cross-validation complete. Results saved to output.csv.")

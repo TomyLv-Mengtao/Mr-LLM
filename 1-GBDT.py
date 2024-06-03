@@ -97,8 +97,8 @@ def save_results(results, output_path):
 
 def main():
     """ Main function to orchestrate data loading, model training, and result saving """
-    base_directory = '/workspaces/Mr-LLM/Data/Traces/2'
-    output_path = '/workspaces/Mr-LLM/Data/Traces/2/GBDT.csv'
+    base_directory = '/workspaces/Mr-LLM/Data/Traces/10'
+    output_path = '/workspaces/Mr-LLM/Data/Traces/10/GBDT-10.csv'
 
     data = load_data(base_directory)
     results = cross_validate(data)

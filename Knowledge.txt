@@ -43,34 +43,4 @@ The format of the gaze trace is as shown between ''' '''.
 ]
 '''
 
-
-
-Below is the understanding of the differences between normal monitoring behaviors and abnormality detection behaviors in pilots, particularly regarding their gaze patterns.
-
-[Characteristics of Abnormality Detection] (Positive)
-Extended Fixations on Critical Displays:
-Pilots tend to have longer fixations on specific AOIs, especially those crucial for system monitoring and diagnosing issues, such as the ECAM, MFD, and ND.
-
-Increased Pupil Dilation:
-Pupil size often increases (can exceed 1.1) during periods of high cognitive load or stress, such as when detecting abnormalities.
-
-Frequent saccades between AOIs:
-There are frequent saccades between critical AOIs, indicating active scanning and information integration.
-
-Focus on Problem Areas:
-Abnormality detection often involves focusing on areas where problems are most likely to occur or where alerts are displayed.
-
-[Characteristics of Normal Monitoring] (Negative)
-Shorter Fixations on Multiple Displays:
-During normal monitoring, pilots have shorter and more evenly distributed fixations across various AOIs.
-
-Stable Pupil Size:
-Pupil size remains relatively stable (below 1.1, or even below 1.0) and close to the baseline, indicating a lower cognitive load compared to abnormality detection.
-
-Less Frequent Transitions:
-There are fewer transitions between AOIs, reflecting a more routine and less active scanning pattern.
-
-Even Distribution of Attention:
-Pilots distribute their attention more evenly across all displays, indicating routine monitoring rather than focusing on potential issues.
-
-Your task is to estimate if the pilot is conducting an abnormality detection behaviour based on the given gaze trace.
+Your task is to estimate if the pilot is conducting an abnormality detection behavior based on the given gaze trace.
