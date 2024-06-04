@@ -24,7 +24,7 @@ class Assistant:
         self.files = [os.path.join(self.files_directory, f) for f in os.listdir(self.files_directory) if os.path.isfile(os.path.join(self.files_directory, f))]
 
         # Create or load assistant with required files
-        self.assistant_id = self.create_or_load_assistant(name="Mr-LLM", instructions=self.knowledge, model=model)
+        self.assistant_id = self.create_or_load_assistant(name="Mr-LLM-CoT2", instructions=self.knowledge, model=model)
 
     def load_file(self, file_path):
         if file_path and Path(file_path).exists():
@@ -83,8 +83,14 @@ class Assistant:
 
     def generate_prompt(self, gaze_data):
         prompt = f"This is a gaze trace: {gaze_data}\n"
+        # prompt += '''\
+        #     Please estimate if the pilot is conducting abnormality detection with this given gaze trace.
+        #     Please organize your answer in a JSON object containing the following keys:
+        #     "Prediction" ("1"/ "0", for your estimation. Reply "1" if you deem the pilot is conducting abnormality detection behaviour. Otherwise, reply "0" if you deem the pilot is just condcuting normal monitoring ),
+        #     and "reason" (a concise explanation that supports your estimation according to the requirements). Do not include line breaks in your output
+        #     '''
         prompt += '''\
-            Please estimate if the pilot is conducting abnormality detection with this given gaze trace.
+            Please take a step-by-step thinking, and estimate if the pilot is conducting abnormality detection with this given gaze trace.
             Please organize your answer in a JSON object containing the following keys:
             "Prediction" ("1"/ "0", for your estimation. Reply "1" if you deem the pilot is conducting abnormality detection behaviour. Otherwise, reply "0" if you deem the pilot is just condcuting normal monitoring ),
             and "reason" (a concise explanation that supports your estimation according to the requirements). Do not include line breaks in your output
@@ -140,13 +146,13 @@ def process_files(directory, assistant):
 
 
 def main():
-    base_directory = '/workspaces/Mr-LLM/Data/Traces/8'
+    base_directory = '/workspaces/Mr-LLM/Data/Traces/6'
     folders = ['Pos', 'Neg']
 
-    # Noraml knowledge
-    Knowledge = '/workspaces/Mr-LLM/Knowledge.txt'
-    # # CoT knowledge
-    # Knowledge = '/workspaces/Mr-LLM/Knowledge-CoT.txt'
+    # # Noraml knowledge
+    # Knowledge = '/workspaces/Mr-LLM/Knowledge.txt'
+    # CoT knowledge
+    Knowledge = '/workspaces/Mr-LLM/Knowledge-CoT.txt'
 
     files_directory = '/workspaces/Mr-LLM/Data/Files'  # The files to be used for file search function of GPT
 
@@ -157,7 +163,7 @@ def main():
         all_results.extend(results)
 
     # Writing results to CSV
-    output_path = '/workspaces/Mr-LLM/Data/Traces/8/MR-8.csv'
+    output_path = '/workspaces/Mr-LLM/Data/Traces/6/MR-CoT6-2.csv'
     with open(output_path, mode='w', newline='') as file:
         writer = csv.DictWriter(file, fieldnames=['filename', 'Actual', 'Prediction', 'reason'])
         writer.writeheader()

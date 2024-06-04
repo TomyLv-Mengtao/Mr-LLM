@@ -2,5 +2,9 @@
     {
         "assistant_name": "Mr-LLM-1shot",
         "assistant_id": "asst_UQUvToMwboX5hTd2ZEy1IKK6"
+    },
+    {
+        "assistant_name": "Mr-LLM-CoT2",
+        "assistant_id": "asst_jBbnJCyGSmjec0N57vWAIBTB"
     }
 ]
